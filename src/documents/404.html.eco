@@ -1,20 +1,21 @@
 ---
 layout: page
-title: Oops! Page Not Found
+title: ページが見つかりませんでした。
 skipCleanUrls: true
 sitemap: false
 ---
 <div class="row">
     <div class="col-sm-12 col-md-10">
-        <h1>Oops! Page not found...</h1>
-        <p>Sorry about that!</p>
+        <h1>ページが見つかりませんでした。</h1>
+        <p>どうもすみません！</p>
         <p>
-            Unfortunately the page you were looking for could not be found. It might have
-            been removed, lost or never existed. You could try and find it using the
-            <a href="http://google.com/search?q=site%3A<%= @site.url %>">search</a>
-            box (top right corner), browse the
-            <a href="/archives/">archives</a> or go to the
-            <a href="/">home page</a>.
+            お求めのページは見つかりませんでした。削除されたか、移動されたか、
+            そもそも存在していなかったか・・・
+
+            <a href="http://google.com/search?q=site%3A<%= @site.url %>">検索機能</a>を使用して
+            探されてみるか、
+            <a href="/archives/">過去記事一覧</a> をご覧になるか、
+            <a href="/">トップページ</a> にお戻りください。.
         </p>
     </div>
 </div>

@@ -1,5 +1,5 @@
 {
-  "name": "docpad-site-base",
+  "name": "kohmuro-blog",
   "version": "1.0.0",
   "dependencies": {
     "docpad": {
