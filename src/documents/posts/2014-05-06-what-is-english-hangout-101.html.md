@@ -1,10 +1,10 @@
----
+%%%
 layout: post
 title: イングリッシュハングアウト１０１って何？
 date: 2014-05-06 14:47
 comments: true
 tags: EnglishHangout101, 英語
----
+%%%
 
 幅広い視点で英語学習を考える、というコンセプトで様々な角度から英語について語る
 [英語キュレーター・セレンさん](http://cellen.jp/)の

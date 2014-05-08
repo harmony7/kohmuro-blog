@@ -51,7 +51,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="/">Blog</a></li>
                 <li><a href="/archives/">Archives</a></li>
-                <li><a href="/about/">About</a></li>
+                <li><a href="/2012/10/01/hello/">About</a></li>
                 <li class="hidden-xs">
                     <a href="/feed.xml" class="rss"><span class="icon icon-feed"></span></a>
                     <a href="http://twitter.com/katsuyukiohmuro" class="twitter"><span class="icon icon-twitter"></span></a>
