@@ -1,7 +1,7 @@
 %%%
 layout: post
 title: 発音について　番外編：音節（２）
-date: 2012-11-15 12:00
+date: 2012-11-20 12:00
 comments: true
 tags: 英語, 発音
 %%%
