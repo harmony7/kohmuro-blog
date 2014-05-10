@@ -3,7 +3,7 @@ layout: post
 title: 会話ができればそれでいい
 date: 2012-12-05 12:00
 comments: true
-tags: 英語, 発音
+tags: 英語, 発音, 学習方法
 %%%
 
 みなさん　こんにちは　大室です。
