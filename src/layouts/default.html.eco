@@ -70,7 +70,11 @@
 <%- @content %>
 <div class="container">
     <div class="navbar navbar-footer">
-        <p class="navbar-center navbar-text">Copyright &copy; 2014 kohmuro.com</p>
+        <p class="navbar-center navbar-text">
+            Copyright &copy; 2014 kohmuro.com &bull;
+            Powered by <a href="http://docpad.org/">DocPad</a> and
+            <a href="http://azure.microsoft.com/">Microsoft Azure</a>
+        </p>
     </div>
 </div>
 
