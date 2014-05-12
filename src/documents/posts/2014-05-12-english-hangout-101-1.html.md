@@ -6,6 +6,8 @@ comments: true
 tags: EnglishHangout101, 英語
 %%%
 
+<img src="/assets/images/common/english-hangout101-logo.jpeg" />
+
 前回お知らせした通り、
 インターネット生放送番組<br />
 「[イングリッシュハングアウト](http://wailingual.jp/column/hangout.html)」に<br />

@@ -6,6 +6,8 @@ comments: true
 tags: EnglishHangout101, 英語
 %%%
 
+<img src="/assets/images/common/english-hangout101-logo.jpeg" />
+
 幅広い視点で英語学習を考える、<br />
 というコンセプトで<br />
 様々な角度から英語について語る<br />
