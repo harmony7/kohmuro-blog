@@ -9,38 +9,38 @@ layout: default
             <!-- Get the next and previous document from the current document -->
             <% for document,documentIndex in @getCollection('posts').toJSON(): %>
 
-            <!-- Get the current document, from there, we will be able to get the next and previous -->
-            <% if @document.id is document.id: %>
+                <!-- Get the current document, from there, we will be able to get the next and previous -->
+                <% if @document.id is document.id: %>
 
-            <!-- We have the current document, do the next and previous buttons -->
+                    <!-- We have the current document, do the next and previous buttons -->
 
-            <div style="overflow: auto">
+                    <div style="overflow: auto">
 
-                <!-- Check if we have a next page -->
-                <% if documentIndex < @getCollection('posts').length - 1: %>
-                <% nextDocument = @getCollection('posts').toJSON()[documentIndex+1] %>
-                <div style="float: left;">
-                    Previous Post:<br />
-                    <a href="<%= nextDocument.url %>" class="next">&larr; <%= nextDocument.title %></a>
-                </div>
+                    <!-- Check if we have a next page -->
+                    <% if documentIndex < @getCollection('posts').length - 1: %>
+                        <% nextDocument = @getCollection('posts').toJSON()[documentIndex+1] %>
+                        <div style="float: left;">
+                            前の記事:<br />
+                            <a href="<%= nextDocument.url %>" class="next">&larr; <%= nextDocument.title %></a>
+                        </div>
+                    <% end %>
+
+                    <!-- Check if we have a previous page -->
+                    <% if documentIndex >= 1: %>
+                        <% prevDocument = @getCollection('posts').toJSON()[documentIndex-1] %>
+                        <div style="float: right;">
+                            次の記事:<br />
+                            <a href="<%= prevDocument.url %>" class="previous"><%= prevDocument.title %> &rarr;</a>
+                        </div>
+                    <% end %>
+
+                    </div>
+
                 <% end %>
-
-                <!-- Check if we have a previous page -->
-                <% if documentIndex >= 1: %>
-                <% prevDocument = @getCollection('posts').toJSON()[documentIndex-1] %>
-                <div style="float: right;">
-                    Next Post:<br />
-                    <a href="<%= prevDocument.url %>" class="previous"><%= prevDocument.title %> &rarr;</a>
-                </div>
-                <% end %>
-
-            </div>
-
-            <% end %>
             <% end %>
 
             <%- @partial('disqus') if @document.comments and @disqusShortName %>
-            <%- @partial('me', false) %>
+            <%- #@partial('me', false) %>
         </div>
     </div>
 </div>
