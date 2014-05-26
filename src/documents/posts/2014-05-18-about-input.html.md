@@ -3,7 +3,7 @@ layout: post
 title: 「インプット」について
 date: 2014-05-18 03:00
 comments: true
-tags: EnglishHangout101, 英語, 英語勉強法
+tags: EnglishHangout101, 英語, 学習方法
 %%%
 
 こんにちは　大室です。
