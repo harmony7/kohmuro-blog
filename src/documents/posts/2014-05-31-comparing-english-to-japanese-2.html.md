@@ -3,7 +3,7 @@ layout: post
 title: 英語を日本語と比較する事について（２）
 date: 2014-05-31 17:30
 comments: true
-tags: 英語, 学習方法
+tags: English, HowToStudy
 %%%
 
 前回に引き続き、英語と日本語を比較することについて<br />

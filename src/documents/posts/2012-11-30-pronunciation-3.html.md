@@ -3,7 +3,7 @@ layout: post
 title: 発音について（３）
 date: 2012-11-30 12:00
 comments: true
-tags: 英語, 発音
+tags: English, Pronunciation
 %%%
 
 皆さん、こんにちは　大室です。

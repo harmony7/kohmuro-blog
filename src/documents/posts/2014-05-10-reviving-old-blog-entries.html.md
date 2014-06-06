@@ -3,7 +3,7 @@ layout: post
 title: 過去ブログの記事を復活させています
 date: 2014-05-10 12:00
 comments: true
-tags: その他
+tags: Other
 %%%
 
 以前に Facebook やアメーバブログでも<br />

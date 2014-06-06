@@ -3,7 +3,7 @@ layout: post
 title: イングリッシュハングアウト１０１って何？
 date: 2014-05-06 14:47
 comments: true
-tags: EnglishHangout101, 英語
+tags: EnglishHangout101, English
 %%%
 
 <img src="/assets/images/common/english-hangout101-logo.jpeg" />

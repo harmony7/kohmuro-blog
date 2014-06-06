@@ -3,7 +3,7 @@ layout: post
 title: 英語の自然な習得方法とは
 date: 2012-12-15 12:00
 comments: true
-tags: 英語, 学習方法
+tags: English, HowToStudy
 %%%
 
 皆さん　こんにちは　大室です。

@@ -3,7 +3,7 @@ layout: post
 title: バイリンガル教育
 date: 2012-10-06 12:00
 comments: true
-tags: 英語
+tags: English
 %%%
 
 私には３歳と生まれたばかりの娘がいます。

@@ -3,7 +3,7 @@ layout: post
 title: 革新
 date: 2012-10-11 12:00
 comments: true
-tags: 名言
+tags: Quotes
 %%%
 
 Innovation is not about saying "yes" to everything. <br />

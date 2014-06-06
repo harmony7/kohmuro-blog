@@ -3,7 +3,7 @@ layout: post
 title: 憧れ
 date: 2012-10-16 12:00
 comments: true
-tags: 英語
+tags: English
 %%%
 
 こんにちは　大室です。

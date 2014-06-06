@@ -3,7 +3,7 @@ layout: post
 title: イングリッシュハングアウト１０１　第一回を終えて
 date: 2014-05-12 23:30
 comments: true
-tags: EnglishHangout101, 英語
+tags: EnglishHangout101, English
 %%%
 
 <img src="/assets/images/common/english-hangout101-logo.jpeg" />
