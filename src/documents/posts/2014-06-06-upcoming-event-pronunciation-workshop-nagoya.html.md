@@ -26,13 +26,12 @@ http://www.officepark-net.jp/access#18
 
 【料金】3,000円（当日払い／税込み）
 
-【お申し込み方法】お申し込みはこちらから &rarr; <a href="https://www.facebook.com/events/527650607356836/" target="_blank">https://www.facebook.com/events/527650607356836/</a>
+【お申し込み方法】お申し込みはこちらから &rarr; <a href="https://www.facebook.com/events/527650607356836/" target="_blank">https://www.facebook.com/events/527650607356836/</a><br />
 Facebookのアカウントをお持ちでない方は、<a href="https://twitter.com/cellen0">@cellen0</a> さん宛にツイッターでご連絡お願いします。
-
 
 【大室克之プロフィール】<br />
 神奈川県出身、5歳よりアメリカで育つ。<br />
 現地カリフォルニアの教育下での学習を経験し、<br />
-23歳で日本に戻る。<br />
+23歳で日本に戻る。現在愛知県在住。<br />
 英語教育、指導にも関心が強く、2014年からEハングアウトのコーホストとして発音を担当。<br />
 バイリンガル独自の視点で新たな英語指導の可能性を追求している。

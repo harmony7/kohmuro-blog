@@ -13,7 +13,7 @@ tags: EnglishHangout101, English
 緊張した。わはは。
 
 ご覧になってない方はこちらからご視聴いただけます。<br />
-&rarr; <a href="https://www.youtube.com/watch?v=hm-mElbCB_M" target="_blank">https://www.youtube.com/watch?v=hm-mElbCB_M</a><br />
+&rarr; <a href="https://www.youtube.com/watch?v=hm-mElbCB_M" target="_blank">https://www.youtube.com/watch?v=hm-mElbCB_M</a>
 
 今回お話した内容はまず、英語の発音を考える前の<br />
 三つの心構え。
