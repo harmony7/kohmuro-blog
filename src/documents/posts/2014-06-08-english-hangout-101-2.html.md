@@ -28,7 +28,10 @@ tags: EnglishHangout101, English
 のハッシュタグをつけてツイッターでご質問ください。<br />
 タイムライン上または番組上で、可能な限りお答えします。
 
-6/9（月）分の放送をご覧になれるリンクは開始の数時間前より告知いたします。
+**更新：　ご視聴リンクが決定しましたので告知いたします。**<br />
+<a href="https://www.youtube.com/watch?v=Gqlk4thwuj4" target="_blank">https://www.youtube.com/watch?v=Gqlk4thwuj4</a><br />
+このリンクはこの回に限って有効です。<br />
+また生放送終了後はそのままこのリンクを使ってこの回を後からご覧になる事ができます。
 
 【前回の放送分のご視聴はこちら】<br />
 &rarr; <a href="https://www.youtube.com/watch?v=hm-mElbCB_M" target="_blank">https://www.youtube.com/watch?v=hm-mElbCB_M</a>

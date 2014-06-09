@@ -35,4 +35,4 @@ tags: EnglishHangout101, English
 **更新：　ご視聴リンクが決定しましたので告知いたします。**<br />
 <a href="https://www.youtube.com/watch?v=hm-mElbCB_M" target="_blank">https://www.youtube.com/watch?v=hm-mElbCB_M</a><br />
 このリンクはこの回に限って有効です。<br />
-また生放送後はそのままこのリンクを使ってこの回を後からご覧になる事ができます。
+また生放送終了後はそのままこのリンクを使ってこの回を後からご覧になる事ができます。
