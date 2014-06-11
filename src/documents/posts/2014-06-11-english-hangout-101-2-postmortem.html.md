@@ -10,7 +10,7 @@ tags: EnglishHangout101, English
 
 「イングリッシュハングアウト１０１」第二回終了しました。
 
-ご覧になってない方はこちらからご視聴いただけます。<br />
+ご覧になってない方も、もう一度ご覧になりたい方も、こちらからご視聴いただけます。<br />
 &rarr; <a href="https://www.youtube.com/watch?v=Gqlk4thwuj4" target="_blank">https://www.youtube.com/watch?v=Gqlk4thwuj4</a><br />
 
 今回のお話は大きく分けると３部。
@@ -46,7 +46,9 @@ IPAの通常の発音記号ではなく、<br />
 嬉しかったです。
 
 母音の基本形はご紹介できたと思いますので、<br />
-何度もご覧になって練習してください。
+何度もご覧になって練習してください。<br />
+こちらからご視聴いただけます。<br />
+&rarr; <a href="https://www.youtube.com/watch?v=Gqlk4thwuj4" target="_blank">https://www.youtube.com/watch?v=Gqlk4thwuj4</a><br />
 
 ただ、これだけではなく、ぜひたくさんの英語を聞き、<br />
 たくさんの英語を発音してみていただきたい。<br />
