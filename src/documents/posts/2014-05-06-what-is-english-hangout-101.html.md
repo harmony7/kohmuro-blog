@@ -31,4 +31,15 @@ tags: EnglishHangout101, English
 ぜひ、ご覧下さい。なお、日付が近づいて参りましたら、<br />
 動画へのリンクも掲載します。
 
+更新
+---
 
+放送済みの回の情報がこちらからご覧になれます
+
+第一回＜英語の発音の心構え&シラブル＞<br />
+動画リンク: <a href="https://www.youtube.com/watch?v=hm-mElbCB_M">https://www.youtube.com/watch?v=hm-mElbCB_M</a><br />
+終了後ブログ: <a href="/2014/05/12/english-hangout-101-1-postmortem/">リンク</a>
+
+第二回＜英語の発音の心構え&シラブル＞<br />
+動画リンク: <a href="https://www.youtube.com/watch?v=Gqlk4thwuj4">https://www.youtube.com/watch?v=Gqlk4thwuj4</a><br />
+終了後ブログ: <a href="/2014/06/11/english-hangout-101-2-postmortem/">リンク</a>
