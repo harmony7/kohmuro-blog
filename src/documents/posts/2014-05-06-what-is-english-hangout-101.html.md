@@ -47,3 +47,5 @@ tags: EnglishHangout101, English
 
 第三回＜子音の発音と摩擦解消＞<br />
 予告ブログ: <a href="/2014/07/14/english-hangout-101-3/">リンク</a><br />
+動画リンク: <a href="https://www.youtube.com/watch?v=b7oJI2rfBI0">https://www.youtube.com/watch?v=b7oJI2rfBI0</a><br />
+
