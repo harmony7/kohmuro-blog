@@ -49,3 +49,5 @@ tags: EnglishHangout101, English
 予告ブログ: <a href="/2014/07/14/english-hangout-101-3/">リンク</a><br />
 動画リンク: <a href="https://www.youtube.com/watch?v=b7oJI2rfBI0">https://www.youtube.com/watch?v=b7oJI2rfBI0</a><br />
 
+第四回＜実践編１ー会話中・音読中のイントネーションやリエゾン＞<br />
+予告ブログ: <a href="/2014/08/11/english-hangout-101-4/">リンク</a><br />
