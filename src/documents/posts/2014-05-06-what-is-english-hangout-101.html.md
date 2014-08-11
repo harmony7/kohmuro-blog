@@ -36,18 +36,20 @@ tags: EnglishHangout101, English
 放送済みの回の情報がこちらからご覧になれます
 
 第一回＜英語の発音の心構え&シラブル＞<br />
-予告ブログ: <a href="/2014/05/12/english-hangout-101-1/">リンク</a><br />
-動画リンク: <a href="https://www.youtube.com/watch?v=hm-mElbCB_M">https://www.youtube.com/watch?v=hm-mElbCB_M</a><br />
-終了後ブログ: <a href="/2014/05/12/english-hangout-101-1-postmortem/">リンク</a>
+予告ブログ: <a href="/2014/05/12/english-hangout-101-1/" target="_blank">リンク</a><br />
+動画リンク: <a href="https://www.youtube.com/watch?v=hm-mElbCB_M" target="_blank">https://www.youtube.com/watch?v=hm-mElbCB_M</a><br />
+終了後ブログ: <a href="/2014/05/12/english-hangout-101-1-postmortem/" target="_blank">リンク</a>
 
 第二回＜母音の発音＞<br />
-予告ブログ: <a href="/2014/06/08/english-hangout-101-2/">リンク</a><br />
-動画リンク: <a href="https://www.youtube.com/watch?v=Gqlk4thwuj4">https://www.youtube.com/watch?v=Gqlk4thwuj4</a><br />
-終了後ブログ: <a href="/2014/06/11/english-hangout-101-2-postmortem/">リンク</a>
+予告ブログ: <a href="/2014/06/08/english-hangout-101-2/" target="_blank">リンク</a><br />
+動画リンク: <a href="https://www.youtube.com/watch?v=Gqlk4thwuj4" target="_blank">https://www.youtube.com/watch?v=Gqlk4thwuj4</a><br />
+終了後ブログ: <a href="/2014/06/11/english-hangout-101-2-postmortem/" target="_blank">リンク</a>
 
 第三回＜子音の発音と摩擦解消＞<br />
-予告ブログ: <a href="/2014/07/14/english-hangout-101-3/">リンク</a><br />
-動画リンク: <a href="https://www.youtube.com/watch?v=b7oJI2rfBI0">https://www.youtube.com/watch?v=b7oJI2rfBI0</a><br />
+予告ブログ: <a href="/2014/07/14/english-hangout-101-3/" target="_blank">リンク</a><br />
+動画リンク: <a href="https://www.youtube.com/watch?v=b7oJI2rfBI0" target="_blank">https://www.youtube.com/watch?v=b7oJI2rfBI0</a><br />
 
 第四回＜実践編１ー会話中・音読中のイントネーションやリエゾン＞<br />
-予告ブログ: <a href="/2014/08/11/english-hangout-101-4/">リンク</a><br />
+予告ブログ: <a href="/2014/08/11/english-hangout-101-4/" target="_blank">リンク</a><br />
+動画リンク: <a href="https://www.youtube.com/watch?v=P0lpC4GeQe0" target="_blank">https://www.youtube.com/watch?v=P0lpC4GeQe0</a><br />
+

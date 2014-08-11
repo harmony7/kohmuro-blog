@@ -28,5 +28,10 @@ tags: EnglishHangout101, English
 ご視聴リンクが決定しましたらまたこちらのページとツイッター上で<br />
 告知いたしますのでよろしくお願いします。
 
+**更新：　ご視聴リンクが決定しましたので告知いたします。**<br />
+<a href="https://www.youtube.com/watch?v=P0lpC4GeQe0" target="_blank">https://www.youtube.com/watch?v=P0lpC4GeQe0</a><br />
+このリンクはこの回に限って有効です。<br />
+また生放送終了後はそのままこのリンクを使ってこの回を後からご覧になる事ができます。
+
 【イングリッシュハングアウトについて・以前の放送分のご視聴はこちら】<br />
 &rarr; <a href="/ehangout101" target="_blank">http://kohmuro.com/ehangout101</a>
