@@ -8,7 +8,7 @@ tags: EnglishHangout101, English
 
 <img src="/assets/images/common/english-hangout101-logo.jpeg" />
 
-先月から月一度のレギュラーとして参加させていただいています<br />
+５月から月一度のレギュラーとして参加させていただいています<br />
 インターネット生放送番組[「イングリッシュハングアウト」](http://wailingual.jp/column/hangout.html)ですが、<br />
 今月も 7/14（月）に参加します。
 
