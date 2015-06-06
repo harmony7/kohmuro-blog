@@ -6,7 +6,14 @@ comments: true
 tags: EnglishHangout101, English
 %%%
 
-去年から月一度のレギュラーとして参加させていただいている<br />
+<img src="/assets/images/common/english-hangout101-logo.jpeg" />
+
+一年近くもブログを放置していましたが、<br />
+まだ生きています。
+
+最近はツイッターでばかり活動しています。
+
+さて、去年から月一度のレギュラーとして参加させていただいている<br />
 <a href="http://twitter.com/cellen0">英語キュレーターのセレンさん</a> の<br />
 インターネット生放送番組[「イングリッシュハングアウト」](http://wailingual.jp/column/hangout.html)ですが、<br />
 今月 6/8（月）の放送で私の出演も一周年となります。
